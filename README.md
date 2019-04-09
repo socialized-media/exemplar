@@ -1,6 +1,6 @@
 # socialized media
 
-A spefication, example, and demo for the syndication and publishing
+A specification, example, and demo for the syndication and publishing
 of social media, articles, and other internet artifacts. This
 specification intends to enable users to own and control their data
 while facilitating its subscription and aggregation.
